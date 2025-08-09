@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.PulseTask" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colors are handled in Compose theme -->
+    </style>
+</resources>
